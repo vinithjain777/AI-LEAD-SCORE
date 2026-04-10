@@ -1,12 +1,3 @@
 {
-  "buildCommand": "echo 'No build required'",
-  "installCommand": "echo 'No install required'",
-  "framework": null,
-  "public": true,
-  "routing": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "framework": null
 }
